@@ -1,0 +1,119 @@
+Q1 -> Different types of testing
+
+1. Accessibility Testing
+
+Accessibility Testing is the practice of ensuring your mobile and web apps are working and usable for users without and with disabilities such as vision impairment, hearing disabilities, and other physical or cognitive conditions.
+
+2. Acceptance Testing
+
+Acceptance testing ensures that the end-user (customers) can achieve the goals set in the business requirements, which determines whether the software is acceptable for delivery or not. It is also known as user acceptance testing (UAT).
+
+3. Black Box Testing
+
+Black box testing involves testing against a system where the code and paths are invisible.
+
+4. End to End Testing
+
+End to end testing is a technique that tests the application’s workflow from beginning to end to make sure everything functions as expected.
+
+5. Functional Testing
+
+Functional Testing checks an application, website, or system to ensure it’s doing exactly what it’s supposed to be doing.
+
+6. Interactive Testing
+
+Also known as manual testing, interactive testing enables testers to create and facilitate manual tests for those who do not use automation and collect results from external tests.
+
+7. Integration Testing
+
+Integration testing ensures that an entire, integrated system meets a set of requirements. It is performed in an integrated hardware and software environment to ensure that the entire system functions properly.
+
+8. Load Testing
+
+This type of non-functional software testing process determines how the software application behaves while being accessed by multiple users simultaneously.
+
+9. Non-Functional Testing
+
+Non-functional testing verifies the readiness of a system according to nonfunctional parameters (performance, accessibility, UX, etc.) which are never addressed by functional testing.
+
+10. Performance Testing
+
+Performance testing examines the speed, stability, reliability, scalability, and resource usage of a software application under a specified workload.
+
+11. Regression Testing
+
+Software regression testing is performed to determine if code modifications break an application or consume resources.
+
+12. Sanity Testing
+
+Performed after bug fixes, sanity testing determines that the bugs are fixed and that no further issues are introduced to these changes.
+
+13. Security Testing
+
+Security testing unveils the vulnerabilities of the system to ensure that the software system and application are free from any threats or risks. These tests aim to find any potential flaws and weaknesses in the software system that could lead to a loss of data, revenue, or reputation per employees or outsides of a company.
+
+14. Smoke Testing
+
+This type of software testing validates the stability of a software application, it is performed on the initial software build to ensure that the critical functions of the program are working.
+
+15. Unit Testing
+
+Unit testing is the process of checking small pieces of code to ensure that the individual parts of a program work properly on their own, speeding up testing strategies and reducing wasted tests.
+
+16. White Box Testing
+
+White box testing involves testing the product’s underlying structure, architecture, and code to validate input-output flow and enhance design, usability, and security.
+
+Q2 -> Every Software Testing Life Cycle Model (STLC Model) has the following six key phases −
+
+1. Analysis of Requirements
+
+2. Test Preparation
+
+3. Creating test cases
+
+4. Setup of the Test Environment
+
+5. Execution of the Test
+
+6. Closure of the Test Cycle
+
+Q3 -> Quality as Manual Tester
+
+1. Tester understand Priorities and Severity of the User Story and test cases
+
+2. Tester should analyze all the data available
+
+3. Flexible enough to support and always report both negative & positive scenarios
+
+4. Co-relate Real-time Scenarios to Software Testing
+
+5. Constant Learner
+
+6. Wearing End User’s Shoes
+
+7. Positive Attitude & Good Communication
+
+8. Multi-Tasking Abilities
+
+Q4 -> Differences between waterfall and agile
+
+1. Roles: Waterfall strictly assigns roles to project team members, with specific duties and responsibilities defined for each team member. In contrast, the agile model empowers team members to collaborate on different aspects of the project over time, leading to a more self-organizing team structure.
+
+2. Planning: In waterfall, planning is a linear process done at the beginning of the project, with all requirements and objectives laid out in detail upfront. In contrast, agile planning is a continuous process throughout the project’s life cycle, with adjustments made as new information or requirements emerge.
+
+3. Scope: The waterfall methodology generally discourages changes to the project’s scope, even with change requests used correctly. This is because the methodology requires an extensive amount of time spent in the beginning trying to get the plan right, which can make changes costlier after the project has begun. On the other hand, agile is more adaptable to changes in scope, with the development team able to adjust quickly as requirements change.
+
+4. Time frames: The waterfall method is designed for long-term projects with predetermined timelines. The project is completed linearly, with each phase dependent on the previous one. Agile, however, uses short iterations to deliver value rapidly, allowing teams to adjust plans over time and achieve shorter time frames.
+
+5. Speed: Waterfall projects tend to take longer because all requirements must be agreed upon before development can begin. Agile projects, on the other hand, are usually delivered more rapidly than waterfall projects due to the iterative development cycles used in agile.
+
+6. Delivery: Agile allows for quick delivery of projects with shorter lifecycles, as each iteration delivers a workable product. Waterfall requires the completion of all tasks before any work can be released.
+
+7. Flexibility: Agile encourages teams to respond quickly and adaptively to changes during the development process. Waterfall is less flexible and resistant to change once the project’s scope has been defined.
+
+8. Testing: Testing is essential to the agile and waterfall methodologies, but the approaches differ significantly. Agile emphasizes incremental testing to identify and resolve issues throughout the development process. In waterfall, testing is usually done at specific milestones, often towards the end of the project.
+
+9. Documentation: Agile relies on minimal documentation, focusing on self-organizing teams and collaboration. Waterfall, in contrast, relies heavily on documenting each step in detail to ensure that all team members are on the same page.
+
+10. Communication: Agile emphasizes informal communication, with frequent interactions between individuals or small groups of stakeholders. In waterfall, communication is more formal, with detailed communication plans and progress reports shared across multiple stakeholders.
